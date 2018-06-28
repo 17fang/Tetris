@@ -1,0 +1,7 @@
+﻿  TETRIS.cpp
+c:\users\administrator\source\repos\tetris\tetris\tetris.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\administrator\source\repos\tetris\tetris\tetris.cpp(349): warning C4551: 缺少参数列表的函数调用
+c:\users\administrator\source\repos\tetris\tetris\tetris.cpp(412): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\administrator\source\repos\tetris\tetris\tetris.cpp(407): warning C4101: “ps”: 未引用的局部变量
+  TETRIS.vcxproj -> c:\Users\administrator\source\repos\TETRIS\Debug\TETRIS.exe
+  TETRIS.vcxproj -> c:\Users\administrator\source\repos\TETRIS\Debug\TETRIS.pdb (Partial PDB)
