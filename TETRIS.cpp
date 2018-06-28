@@ -21,7 +21,6 @@ byte position[ROW][COL] = { 0 };
 
 LRESULT CALLBACK WndProc(HWND, UINT, WPARAM, LPARAM);
 
-//void table(HDC hdc); //地图
 void refresh(HDC hdc);
 void Collision(HDC hdc);
 void Left(HDC hdc);
